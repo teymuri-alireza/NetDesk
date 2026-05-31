@@ -1,5 +1,7 @@
 # NetDesk
 
+**⚠️ This project is archived and no longer maintained.**
+
 **NetDesk** is a Python-based socket communication tool that supports multiple clients and real-time message exchange. It includes Tkinter-based GUI for the client
 
 ## Features
